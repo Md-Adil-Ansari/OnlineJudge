@@ -2,6 +2,12 @@
 
 Welcome to the Adcoders! This project is a web-based system that allows users to practice coding by solving problems, submitting solutions, and receiving immediate feedback.
 
+## Screenshots
+![1](https://res.cloudinary.com/ad93047/image/upload/v1720285459/Screenshot_2024-07-06_222930_ynbszs.png)
+![2](https://res.cloudinary.com/ad93047/image/upload/v1720285459/Screenshot_2024-07-06_223016_qf9bmf.png)
+![3](https://res.cloudinary.com/ad93047/image/upload/v1720285459/Screenshot_2024-07-06_223053_so40n8.png)
+![4](https://res.cloudinary.com/ad93047/image/upload/v1720285459/Screenshot_2024-07-06_223114_gkqmiu.png)
+![5](https://res.cloudinary.com/ad93047/image/upload/v1720285460/Screenshot_2024-07-06_223206_q9yrvn.png)
 
 ## Table of Contents
 - [Features](#features)
